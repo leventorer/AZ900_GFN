@@ -1,0 +1,11 @@
+{
+    "storageAccountName": {
+        "value": "adlsn7"
+    },
+    "storageAccountType": {
+        "value": "Premium_LRS"
+    },
+    "location": {
+        "value": "westeurope"
+    }
+}
